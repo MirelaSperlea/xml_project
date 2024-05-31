@@ -1,0 +1,124 @@
+<!DOCTYPE inchirieri_biciclete SYSTEM "bicycle_dtd.dtd">   
+<inchirieri_biciclete>
+    <inchiriere id="1">
+        <bicicleta>
+            <model>Mountain Bike</model>
+            <caracteristici>
+                <culoare>rosu</culoare>
+                <greutate>12 kg</greutate>
+            </caracteristici>
+            <pret_pe_ora>4</pret_pe_ora>
+            <disponibilitate>disponibil</disponibilitate>
+        </bicicleta>
+        <client>
+            <nume>John Doe</nume>
+            <contact>
+                <telefon>1234567890</telefon>
+                <email>john.doe@example.com</email>
+            </contact>
+        </client>
+        <perioada>
+            <inceput>2024-03-14T09:00:00</inceput>
+            <sfarsit>2024-03-14T17:00:00</sfarsit>
+            <durata>8 ore</durata>
+        </perioada>
+        <suma>32</suma>
+    </inchiriere>
+    <inchiriere id="2">
+        <bicicleta>
+            <model>City Bike</model>
+            <caracteristici>
+                <culoare>albastru</culoare>
+                <greutate>10 kg</greutate>
+            </caracteristici>
+            <pret_pe_ora>2</pret_pe_ora>
+            <disponibilitate>indisponibil</disponibilitate>
+        </bicicleta>
+        <client>
+            <nume>Jane Smith</nume>
+            <contact>
+                <telefon>9876543210</telefon>
+                <email>jane.smith@example.com</email>
+            </contact>
+        </client>
+        <perioada>
+            <inceput>2024-03-15T10:00:00</inceput>
+            <sfarsit>2024-03-16T10:00:00</sfarsit>
+            <durata>24 ore</durata>
+        </perioada>
+        <suma>48</suma>
+    </inchiriere>
+     <inchiriere id="3">
+        <bicicleta>
+            <model>Electrical Bike</model>
+            <caracteristici>
+                <culoare>alb</culoare>
+                <greutate>15 kg</greutate>
+            </caracteristici>
+            <pret_pe_ora>5</pret_pe_ora>
+            <disponibilitate>indisponibil</disponibilitate>
+        </bicicleta>
+        <client>
+            <nume>Maria Ton</nume>
+            <contact>
+                <telefon>5983342230</telefon>
+                <email>maria.ton@example.com</email>
+            </contact>
+        </client>
+        <perioada>
+            <inceput>2024-04-15T10:00:00</inceput>
+            <sfarsit>2024-04-15T15:00:00</sfarsit>
+            <durata>5 ore</durata>
+        </perioada>
+        <suma>25</suma>
+    </inchiriere>
+     <inchiriere id="4">
+        <bicicleta>
+            <model>Trx Bike</model>
+            <caracteristici>
+                <culoare>roz</culoare>
+                <greutate>12 kg</greutate>
+            </caracteristici>
+            <pret_pe_ora>3</pret_pe_ora>
+            <disponibilitate>disponibil</disponibilitate>
+        </bicicleta>
+        <client>
+            <nume>Vasi Pop</nume>
+            <contact>
+                <telefon>4392332210</telefon>
+                <email>vasi.pop@example.com</email>
+            </contact>
+        </client>
+        <perioada>
+            <inceput>2024-03-23T10:00:00</inceput>
+            <sfarsit>2024-03-23T12:00:00</sfarsit>
+            <durata>2 ore</durata>
+        </perioada>
+        <suma>6</suma>
+    </inchiriere>
+    <inchiriere id="5">
+        <bicicleta>
+            <model>Mountain Bike</model>
+            <caracteristici>
+                <culoare>galben</culoare>
+                <greutate>12 kg</greutate>
+            </caracteristici>
+            <pret_pe_ora>4</pret_pe_ora>
+            <disponibilitate>disponibil</disponibilitate>
+        </bicicleta>
+        <client>
+            <nume>Oli Eric</nume>
+            <contact>
+                <telefon>1247678930</telefon>
+                <email>oli.eric@example.com</email>
+            </contact>
+        </client>
+        <perioada>
+            <inceput>2024-02-14T09:00:00</inceput>
+            <sfarsit>2024-02-14T17:00:00</sfarsit>
+            <durata>8 ore</durata>
+        </perioada>
+        <suma>32</suma>
+    </inchiriere>
+
+</inchirieri_biciclete>
