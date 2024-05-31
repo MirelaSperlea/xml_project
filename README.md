@@ -1,1 +1,3 @@
 # xml_project
+
+The project involves choosing a domain and modeling it using XML and JSON files, followed by developing a visual interface application to navigate and display the contents of these files. In the first part, domain analysis will be performed, creating a document describing the domain, constraints, and XML, JSON, and DTD files. In the second part, the application will be implemented which includes designing an XML schema, using XSL to display XML data in a table, developing the interface for loading and traversing XML and JSON documents, and displaying the structured data in a report.
